@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>IsOnline</title>
+      <link>https://yevwke.github.io/isonline</link>
+      <description>Последние 10 заметок on IsOnline</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>IsOnline</title>
+    <link>https://yevwke.github.io/isonline/</link>
+    <guid>https://yevwke.github.io/isonline/</guid>
+    <description><![CDATA[  Добро пожаловать в мануал по ISONLINE. ISONLINE - это настольная ролевая игра в жанре киберпанк, в которой вы играете в MMORPG смешанной реальности. ]]></description>
+    <pubDate>Wed, 12 Aug 2026 02:08:43 GMT</pubDate>
+  </item><item>
+    <title>Введение</title>
+    <link>https://yevwke.github.io/isonline/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5</link>
+    <guid>https://yevwke.github.io/isonline/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5</guid>
+    <description><![CDATA[  2xxx год. Государств больше не существует. После череды серьезных кризисов и катастроф границы стерлись, а привычные ориентиры потеряли значение. ]]></description>
+    <pubDate>Tue, 11 Aug 2026 14:32:39 GMT</pubDate>
+  </item><item>
+    <title>Виртуальное оружие</title>
+    <link>https://yevwke.github.io/isonline/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5</link>
+    <guid>https://yevwke.github.io/isonline/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5</guid>
+    <description><![CDATA[ Надев mr-очки и подключившись к IsOnline, персонаж игрока (ПИ) начинает действовать сразу в двух реальностях - физической и виртуальной. ]]></description>
+    <pubDate>Tue, 11 Aug 2026 14:32:39 GMT</pubDate>
+  </item><item>
+    <title>Игровой процесс</title>
+    <link>https://yevwke.github.io/isonline/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81</link>
+    <guid>https://yevwke.github.io/isonline/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81</guid>
+    <description><![CDATA[  Текущий игровой цикл предназначен лишь для тестирования механик и в дальнейшем будет изменен и значительно расширен Каждый игрок IsOnline, получает доступ к интерфейсу внутри mr-очков. ]]></description>
+    <pubDate>Tue, 11 Aug 2026 14:32:39 GMT</pubDate>
+  </item><item>
+    <title>Правила</title>
+    <link>https://yevwke.github.io/isonline/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0</link>
+    <guid>https://yevwke.github.io/isonline/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0</guid>
+    <description><![CDATA[ ХАРАКТЕРИСТИКИ У персонажей игроков(ПИ) есть три характеристики. ]]></description>
+    <pubDate>Tue, 11 Aug 2026 14:32:39 GMT</pubDate>
+  </item><item>
+    <title>Клеймо гильд-мастера</title>
+    <link>https://yevwke.github.io/isonline/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5/%D0%9A%D0%BB%D0%B5%D0%B9%D0%BC%D0%BE-%D0%B3%D0%B8%D0%BB%D1%8C%D0%B4-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0</link>
+    <guid>https://yevwke.github.io/isonline/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5/%D0%9A%D0%BB%D0%B5%D0%B9%D0%BC%D0%BE-%D0%B3%D0%B8%D0%BB%D1%8C%D0%B4-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0</guid>
+    <description><![CDATA[  Клеймо гильд-мастера Открывает доступ к созданию гильдии Вы можете зарегистрировать игроков как гильдию. Для создания гильдии необходимо 6 человек. ]]></description>
+    <pubDate>Tue, 11 Aug 2026 14:32:39 GMT</pubDate>
+  </item><item>
+    <title>Лук (2 уровень)</title>
+    <link>https://yevwke.github.io/isonline/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5/%D0%9B%D1%83%D0%BA-(2-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)</link>
+    <guid>https://yevwke.github.io/isonline/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5/%D0%9B%D1%83%D0%BA-(2-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)</guid>
+    <description><![CDATA[  Лук (2 уровень) Вирт. двуручное оружие Для дальнего боя +d8 Вирт. ]]></description>
+    <pubDate>Tue, 11 Aug 2026 14:32:39 GMT</pubDate>
+  </item><item>
+    <title>Лук</title>
+    <link>https://yevwke.github.io/isonline/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5/%D0%9B%D1%83%D0%BA</link>
+    <guid>https://yevwke.github.io/isonline/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5/%D0%9B%D1%83%D0%BA</guid>
+    <description><![CDATA[  Лук Вирт. двуручное оружие Для дальнего боя +d6 Вирт. ]]></description>
+    <pubDate>Tue, 11 Aug 2026 14:32:39 GMT</pubDate>
+  </item><item>
+    <title>Магический посох</title>
+    <link>https://yevwke.github.io/isonline/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5/%D0%9C%D0%B0%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%BE%D1%81%D0%BE%D1%85</link>
+    <guid>https://yevwke.github.io/isonline/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5/%D0%9C%D0%B0%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%BE%D1%81%D0%BE%D1%85</guid>
+    <description><![CDATA[  Магический посох Вирт. одноручное оружие Для ближнего и дальнего боя +d4 Вирт. ]]></description>
+    <pubDate>Tue, 11 Aug 2026 14:32:39 GMT</pubDate>
+  </item><item>
+    <title>Меч (2 уровень)</title>
+    <link>https://yevwke.github.io/isonline/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5/%D0%9C%D0%B5%D1%87-(2-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)</link>
+    <guid>https://yevwke.github.io/isonline/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5/%D0%9C%D0%B5%D1%87-(2-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)</guid>
+    <description><![CDATA[  Меч (2 уровень) Вирт. двуручное оружие Для ближнего боя +d6 Вирт. ]]></description>
+    <pubDate>Tue, 11 Aug 2026 14:32:39 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
